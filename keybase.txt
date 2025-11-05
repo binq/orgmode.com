@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/binq
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://orgmode.com
+  * I am binq (https://keybase.io/binq) on keybase.
+  * I have a public key ASCr09Q42c8Xtp-d6L9Xq058Q49vcSgQBqGdlqyteaPX4wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f6e1d234c0c30f1f25437d9041306b1ce9dddf50924b8535ce15947a3f12a7520a",
+      "host": "keybase.io",
+      "kid": "0120abd3d438d9cf17b69f9de8bf57ab4e7c438f6f71281006a19d96acad79a3d7e30a",
+      "uid": "5e111110ae08c44c4d1cde1f23d02d00",
+      "username": "binq"
+    },
+    "merkle_root": {
+      "ctime": 1762362337,
+      "hash": "e4fe7f18fd5002a2e2ca6558bfeac658857d70eede3c75c7a138cd93c734fdf636527cec7c2548076e334b64545687f211eb35003a78ad44d506abce03d2b04a",
+      "hash_meta": "8a63950ea48b0f5bd98e36ecb076969da967e21b5c93314a7d37ee22221b0e92",
+      "seqno": 27214566
+    },
+    "service": {
+      "entropy": "AmmSMHJwl7vsi7LodqSmXiBP",
+      "hostname": "orgmode.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.4"
+  },
+  "ctime": 1762362362,
+  "expire_in": 504576000,
+  "prev": "f477aff33beb6d07bb9b8d1a5e47953a922263d5b8487e3d3f39c64ceb770fa8",
+  "seqno": 133,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgq9PUONnPF7afnei/V6tOfEOPb3EoEAahnZasrXmj1+MKp3BheWxvYWTES5cCzIXEIPR3r/M7620Hu5uNGl5HlTqSImPVuEh+PT85xkzrdw+oxCDlflqI8bw86ItjK9my6SggfxI1648JCA6Wcz9O7qJBaAIBwqNzaWfEQO9KDfkqCC9EHmpS9wRDTcQrGdIQQXVujNGBM7Bhq+ch7Fa8sxVg2n5EyNS7dYQd2zAENWRq7K92ywwcGjT8/QGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCC3dZTdKCXihqqQDP3SdsgPwExdslrx5Ro4yjCd81PM76N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/binq
+
+==================================================================
